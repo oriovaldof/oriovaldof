@@ -9,6 +9,8 @@
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>  
 
+[========]
+
 Atuo no ramo de Desenvolvimento Web desde 2008, sempre focado no resultado e satisfação do cliente. Os projetos são dotados de recursos tecnológicos de última geração, sem abrir mão da facilidade no manuseio de nossas soluções (WebSites, Sistemas Web, E-commerce).
 
 Apaixonado por inovação e experimentos com novas tecnologias, conheça alguns dos projetos que pratiquei e desenvolvi.
@@ -31,6 +33,8 @@ Apaixonado por inovação e experimentos com novas tecnologias, conheça alguns 
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeigniter.svg" />
 </a>  
 
+
+[========]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriovaldof&layout=compact)](https://github.com/oriovaldof/github-readme-stats)
 
