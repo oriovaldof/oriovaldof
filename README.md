@@ -32,7 +32,6 @@ Apaixonado por inovação e experimentos com novas tecnologias, conheça alguns 
 </a>
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriovaldof&layout=compact)](https://github.com/oriovaldof/github-readme-stats)
 
 ![oriovaldof github stats](https://github-readme-stats.vercel.app/api?username=oriovaldof&show_icons=true&theme=radical)
