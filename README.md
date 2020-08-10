@@ -9,6 +9,8 @@
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+------------
+<br />
 
 Atuo no ramo de Desenvolvimento Web desde 2008, sempre focado no resultado e satisfação do cliente. Os projetos são dotados de recursos tecnológicos de última geração, sem abrir mão da facilidade no manuseio de nossas soluções (WebSites, Sistemas Web, E-commerce).
 
