@@ -4,9 +4,9 @@ Atuo no ramo de Desenvolvimento Web desde 2008, sempre focado no resultado e sat
 
 Apaixonado por inovação e experimentos com novas tecnologias, conheça alguns dos projetos que pratiquei e desenvolvi.
 
-Linkedin: [https://www.linkedin.com/in/oriovaldofialho/](https://www.linkedin.com/in/oriovaldofialho/)
-Github: [https://github.com/oriovaldof](https://github.com/oriovaldof)
-Site: [oriweb.com.br](oriweb.com.br)
+- Linkedin: [https://www.linkedin.com/in/oriovaldofialho/](https://www.linkedin.com/in/oriovaldofialho/)
+- Github: [https://github.com/oriovaldof](https://github.com/oriovaldof)
+- Site: [oriweb.com.br](oriweb.com.br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriovaldof&layout=compact)](https://github.com/oriovaldof/github-readme-stats)
 
