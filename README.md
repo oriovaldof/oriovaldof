@@ -1,16 +1,13 @@
-### Hi there 👋
+Em Busca de uma oportunidade para desenvolver e melhorar meus conhecimentos, e também algo que possa me instruir de forma crescente e contínua, visando sempre o crescimento de ambas as parte.
 
-<!--
-**oriovaldof/oriovaldof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo no ramo de Desenvolvimento Web desde 2008, sempre focado no resultado e satisfação do cliente. Os projetos são dotados de recursos tecnológicos de última geração, sem abrir mão da facilidade no manuseio de nossas soluções (WebSites, Sistemas Web, E-commerce).
 
-Here are some ideas to get you started:
+Apaixonado por inovação e experimentos com novas tecnologias, conheça alguns dos projetos que pratiquei e desenvolvi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: [https://www.linkedin.com/in/oriovaldofialho/](https://www.linkedin.com/in/oriovaldofialho/)
+Github: [https://github.com/oriovaldof](https://github.com/oriovaldof)
+Site: [oriweb.com.br](oriweb.com.br)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriovaldof&layout=compact)](https://github.com/oriovaldof/github-readme-stats)
+
+![oriovaldof github stats](https://github-readme-stats.vercel.app/api?username=oriovaldof&show_icons=true&theme=radical)
