@@ -1,4 +1,4 @@
-Em Busca de uma oportunidade para desenvolver e melhorar meus conhecimentos, e também algo que possa me instruir de forma crescente e contínua, visando sempre o crescimento de ambas as parte.
+##Olá Seja Bem Vindo!!
 
 Atuo no ramo de Desenvolvimento Web desde 2008, sempre focado no resultado e satisfação do cliente. Os projetos são dotados de recursos tecnológicos de última geração, sem abrir mão da facilidade no manuseio de nossas soluções (WebSites, Sistemas Web, E-commerce).
 
